@@ -2,6 +2,7 @@
 void main()
 {
   printf("Welocme to github ORG");
+  printf("Add=",add(1,2));
 }
 void add(int a,int b)
 {
