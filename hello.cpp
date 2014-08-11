@@ -7,4 +7,5 @@ void main()
 void add(int a,int b)
 {
   return (a+b);
+  // function will return addition of a & b
 }
